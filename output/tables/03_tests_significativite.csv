@@ -1,0 +1,7 @@
+Variable,N,Moyenne,Écart-type,t-stat,p-value,Significatif (5%)
+Hausses — STOXX 50 (rendement),10,0.0013,0.0458,0.09,0.9305, X Non
+Hausses — Spread italien (bp),10,2.5554,24.237,0.333,0.7465, X Non
+Hausses — VSTOXX (points),10,-0.6108,4.7245,-0.409,0.6922, X Non
+Baisses — STOXX 50 (rendement),4,-0.0059,0.0173,-0.68,0.5451, X Non
+Baisses — Spread italien (bp),4,2.4887,6.3005,0.79,0.4872, X Non
+Baisses — VSTOXX (points),4,0.7921,4.9549,0.32,0.7701, X Non
